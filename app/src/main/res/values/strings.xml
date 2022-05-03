@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppSelectTestAssignment</string>
+    <string name="something_wrong">Упс, что-то пошло не так</string>
+    <string name="no_internet">Проверьте подключение к интернету</string>
+</resources>
